@@ -1,0 +1,24 @@
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Windy\Elevators\bin\Debug\Elevators.exe.config
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Windy\Elevators\bin\Debug\Elevators.exe
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Windy\Elevators\bin\Debug\Elevators.pdb
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Windy\Elevators\obj\Debug\Elevators.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Windy\Elevators\obj\Debug\Elevators.exe
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Windy\Elevators\obj\Debug\Elevators.pdb
+E:\Dropbox\AiR sem 7\Inżynierka\Backup\backup_10.01.2015\Windy\Elevators\bin\Debug\Elevators.exe.config
+E:\Dropbox\AiR sem 7\Inżynierka\Backup\backup_10.01.2015\Windy\Elevators\obj\Debug\Elevators.exe
+E:\Dropbox\AiR sem 7\Inżynierka\Backup\backup_10.01.2015\Windy\Elevators\obj\Debug\Elevators.pdb
+E:\Dropbox\AiR sem 7\Inżynierka\Backup\backup_10.01.2015\Windy\Elevators\bin\Debug\Elevators.exe
+E:\Dropbox\AiR sem 7\Inżynierka\Backup\backup_10.01.2015\Windy\Elevators\bin\Debug\Elevators.pdb
+E:\Dropbox\AiR sem 7\Inżynierka\Backup\backup_10.01.2015\Windy\Elevators\obj\Debug\Elevators.csprojResolveAssemblyReference.cache
+E:\Dropbox\AiR sem 7\Inżynierka\Backup\backup_14.01.2015\Windy\Elevators\bin\Debug\Elevators.exe.config
+E:\Dropbox\AiR sem 7\Inżynierka\Backup\backup_14.01.2015\Windy\Elevators\obj\Debug\Elevators.exe
+E:\Dropbox\AiR sem 7\Inżynierka\Backup\backup_14.01.2015\Windy\Elevators\obj\Debug\Elevators.pdb
+E:\Dropbox\AiR sem 7\Inżynierka\Backup\backup_14.01.2015\Windy\Elevators\bin\Debug\Elevators.exe
+E:\Dropbox\AiR sem 7\Inżynierka\Backup\backup_14.01.2015\Windy\Elevators\bin\Debug\Elevators.pdb
+E:\Dropbox\AiR sem 7\Inżynierka\Backup\backup_14.01.2015\Windy\Elevators\obj\Debug\Elevators.csprojResolveAssemblyReference.cache
+E:\Dropbox\AiR sem 7\Inżynierka\Płyta Inżynierka\Projekt w Visual Studio\Windy\Elevators\bin\Debug\Elevators.exe.config
+E:\Dropbox\AiR sem 7\Inżynierka\Płyta Inżynierka\Projekt w Visual Studio\Windy\Elevators\obj\Debug\Elevators.exe
+E:\Dropbox\AiR sem 7\Inżynierka\Płyta Inżynierka\Projekt w Visual Studio\Windy\Elevators\obj\Debug\Elevators.pdb
+C:\Users\pwyrw\Desktop\Elevator_Paweł_Wyrwas\Kody źrdódłowe\Windy\Elevators\bin\Debug\Elevators.exe.config
+C:\Users\pwyrw\Desktop\Elevator_Paweł_Wyrwas\Kody źrdódłowe\Windy\Elevators\obj\Debug\Elevators.exe
+C:\Users\pwyrw\Desktop\Elevator_Paweł_Wyrwas\Kody źrdódłowe\Windy\Elevators\obj\Debug\Elevators.pdb

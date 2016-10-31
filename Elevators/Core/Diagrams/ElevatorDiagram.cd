@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Elevators.Core.Building">
+    <Position X="6.25" Y="2.25" Width="1.5" />
+    <AssociationLine Name="Levels" Type="Elevators.Core.Level" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.25" Y="3.188" />
+        <Point X="2.375" Y="3.188" />
+        <Point X="2.375" Y="7.364" />
+        <Point X="2.75" Y="7.364" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="People" Type="Elevators.Core.Person" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.75" Y="3.188" />
+        <Point X="11.25" Y="3.188" />
+        <Point X="11.25" Y="5.75" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAACAABIAAAAAAAAAAAAABAAAAAAABAAAAAAAAAEI=</HashCode>
+      <FileName>Core\Building.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="Levels" />
+      <Field Name="People" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Elevators.Core.Elevator">
+    <Position X="6.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAACIAAAEAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Elevator.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="CurrentLevel" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="People" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Elevators.Core.Level">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <AssociationLine Name="WaitingPeople" Type="Elevators.Core.Person">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.151" Y="0.143" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="FulfiledPeople" Type="Elevators.Core.Person">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.11" Y="0.081" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAASAAAAAAAAAEAAAIAAAAAAAAAAABAAABAAAAA=</HashCode>
+      <FileName>Core\Level.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="WaitingPeople" />
+      <Field Name="FulfiledPeople" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Elevators.Core.Person">
+    <Position X="10.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAAAAAAAAAAAAAAAQAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Core\Person.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="TargetLevel" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
